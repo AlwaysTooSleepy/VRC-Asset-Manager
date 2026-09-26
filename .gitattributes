@@ -1,0 +1,17 @@
+src-tauri/target/debug/libvrchat_asset_manager_lib.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/vrchat_asset_manager.pdb filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/vrchat_asset_manager_lib.lib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/vrchat_asset_manager_lib.pdb filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libreqwest-b9ce927ae847f856.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libtauri-2c01026fb165b9a3.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libtauri-949d57d1331b72ee.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libtauri_utils-0dd3e7009a890b39.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libtauri_utils-9cb1e22c65d2ac3f.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libtauri_utils-bb9f0e9c77021460.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libtauri_utils-d060bc83b3a5038e.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libvrchat_asset_manager_lib.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libwindows-26d68392b53c3550.rlib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/libwindows-26d68392b53c3550.rmeta filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/vrchat_asset_manager.pdb filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/vrchat_asset_manager_lib.lib filter=lfs diff=lfs merge=lfs -text
+src-tauri/target/debug/deps/vrchat_asset_manager_lib.pdb filter=lfs diff=lfs merge=lfs -text
