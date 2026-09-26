@@ -178,4 +178,3 @@ This project was built with the assistance of AI. See
 =======
 # VRChatAssetManager
 An application to help organize assets associated with VRChat, e.g. Models, Avatar Systems, Worlds. 
->>>>>>> 73ea90eebed05f4718b6e026290b13384fe84703
