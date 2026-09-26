@@ -148,10 +148,3 @@ and the other `src-tauri/src/*.rs` files.
 4. Test that `npm run tauri dev` still works
 5. Commit with a clear message explaining what changed and why
 6. Open a Pull Request on GitHub
-
----
-
-## Getting help
-
-If you're stuck on setup, open a GitHub Issue and describe what step you're
-on and what error message you see.
