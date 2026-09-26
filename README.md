@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # VRChat Asset Manager
 
 A desktop app for organizing your VRChat avatar models and the assets that go
